@@ -197,6 +197,7 @@ static stock bool:CbugDetection_ResetVariables(playerid) {
     return true;
 }
 
+// They can be used by users, so they are not static! ;)
 stock bool:CbugDetection_Player(playerid, bool:cbug_d_enable) {
     if (!IsPlayerConnected(playerid))
         return false;
