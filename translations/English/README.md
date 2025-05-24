@@ -9,7 +9,7 @@ In the context of **SA-MP**, the **C-Bug** is a practice that involves rapid act
 
 ## Languages
 
-- Portuguese: [README](../../)
+- Português: [README](../../)
 - Deutsch: [README](../Deutsch/README.md)
 - Español: [README](../Espanol/README.md)
 - Français: [README](../Francais/README.md)
