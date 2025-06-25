@@ -1,4 +1,4 @@
-# Détection de Cbug
+# Cbug Detection
 
 Le **Cbug Detection** est un include flexible pour **San Andreas Multiplayer (SA-MP)** conçu pour détecter l'**exploit C-Bug**, une technique permettant aux joueurs de tirer plus rapidement que prévu en exploitant les mécaniques du jeu. Cet **include** offre aux **développeurs de serveurs** un outil fiable pour identifier l'utilisation du **C-Bug**, permettant une intégration avec des systèmes comme l'anti-cheat, la surveillance du comportement ou des règles de jeu personnalisées.
 
@@ -21,7 +21,7 @@ Dans le contexte de **SA-MP**, le **C-Bug** est une pratique impliquant des acti
 
 ## Table des matières
 
-- [Détection de Cbug](#détection-de-cbug)
+- [Cbug Detection](#cbug-detection)
   - [Langues](#langues)
   - [Table des matières](#table-des-matières)
   - [Fonctionnalités](#fonctionnalités)
